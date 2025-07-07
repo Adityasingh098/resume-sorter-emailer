@@ -1,0 +1,10 @@
+We are looking for a skilled Python developer with experience in:
+- Python programming
+- Data analysis using Pandas
+- API integration
+- Git and version control
+- SQL and database queries
+
+Bonus skills:
+- Streamlit
+- Machine learning basics
